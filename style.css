@@ -16,7 +16,7 @@ h1{
   margin: 1rem;
   font-family: rockwell;
   line-height: 1.5;
-  font-size: 50px;
+  font-size: 100px;
   
 }
 body {
@@ -24,6 +24,7 @@ body {
   font-family: rockwell;
   line-height: 1.5;
   background: #d9f1ff;
+  font-size: 24px;
 }
 
 td {
