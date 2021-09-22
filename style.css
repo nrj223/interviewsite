@@ -3,7 +3,7 @@
 /* default to border-box */
 html {
   box-sizing: border-box;
-  font-size: 24px;
+  font-size: 32px;
 }
  
 
@@ -22,9 +22,9 @@ h1{
 body {
   margin: 1rem;
   font-family: rockwell;
-  line-height: 1.5;
+  line-height: 2;
   background: #d9f1ff;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 td {
